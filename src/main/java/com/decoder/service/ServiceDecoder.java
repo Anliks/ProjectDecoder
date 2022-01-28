@@ -3,7 +3,9 @@ package com.decoder.service;
 
 import com.decoder.Main;
 
+
 public class ServiceDecoder {
+
     boolean skip = false;
 
     boolean isUpperChar = false;
